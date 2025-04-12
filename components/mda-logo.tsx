@@ -13,7 +13,7 @@ export default function MDALogo({ className = "" }: MDALogoProps) {
           alt="MDA Logo"
           width={200}
           height={200}
-          className="w-auto h-auto max-w-[200px] rounded-full"
+          className="w-auto h-auto max-w-[40px] md:max-w-[200px] rounded-full"
           priority
         />
       </div>
